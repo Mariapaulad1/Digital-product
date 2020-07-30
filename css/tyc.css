@@ -1,0 +1,26 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin: 20px;
+  text-align: center;
+  background-color: smokewhite;
+  justify-content: center;
+  align-items: center;
+}
+
+h3{
+  font-size: 18px;
+
+
+}
+
+p{
+  font-size: 10px;
+  font-weight: normal;
+}
+
+.content{
+  padding: 20px;
+  margin: auto;
+  border-radius: 3px;
+  box-shadow: 0px 0 2px 1px #e6e5e9;
+}
